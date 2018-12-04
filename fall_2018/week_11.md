@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-Preparing the presentation, and continuing on the forward declaration issue, need a few more days to complete it.
+Preparing the presentation, and continuing on the forward declaration issue, just needs a few more days to complete it.
 
 ## This Week's Plan
 

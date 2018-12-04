@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-Continuing the issue, go through every header files and change includes into forward declarations. But there are severl tests around, I didn't do much.
+Continuing the issue, figure out how forward declarations works. But go through every header files and change includes into forward declarations is necessary, feel it will be a long time to finish this issue.
 
 ## This Week's Plan
 

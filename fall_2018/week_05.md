@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-Finish the lastest issue, which is to seperate a class. But still stuck in Vertex Shader.
+Finish the lastest issue, which is to seperate a class. But still stuck in Vertex Shader. And aissgned by a new Ninja issue. 
 
 ## This Week's Plan
 

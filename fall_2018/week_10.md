@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-I was enjoy my thanksgiving, but my issue should end in a week or a few days longer. There's 3 folders of files to view.
+I didn't work much during thanksgiving, but I did a lot on my issue the week before that. So, my issue should end in a week or a few days longer. There's about 3 folders of files to view.
 
 ## This Week's Plan
 
